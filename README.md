@@ -4,7 +4,7 @@ My code basically operates as following:
 (main method PlaylistAssignment class)
 1. add all .csv file names into an arraylist
 2. create another arraylist to store song names from .csv files
-3. use a custom method to read .csv files and extract song names into the arraylist
+3. use a custom method to read .csv files and extract the top 10 songs of each week into the arraylist
 4. delete duplicates and sort the arraylist in alphabetical order
 5. create reference object of the Playlist class which contains the Queue/linkedlist 
    and a SongHistoryList class reference object
