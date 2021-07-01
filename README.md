@@ -1,4 +1,4 @@
-# Assignment-2 (Playlist Queue) 
+# Project-2 (Playlist Queue) 
 
 My code basically operates as following:
 (main method PlaylistAssignment class)
